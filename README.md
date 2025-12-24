@@ -6,15 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=subaiyal-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="subaiyal-rehan" />
 </p>
 
-<div style="display:flex; align-items:flex-start; gap:20px;">
-
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+  <div>
+  
 - 💬 Ask me about **JavaScript, MERN**
 - 📫 How to reach me **subaiyalrehan888@gmail.com**
 - ⚡ Fun fact **I speak three languages — English, Urdu, and JavaScript! 😄💬💻**
 
-  <div>
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
   </div>
+
+  <div>
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  </div>
+
 </div>
 
 <div style="clear:both;"></div>
