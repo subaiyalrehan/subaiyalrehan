@@ -2,17 +2,24 @@
 <h1 align="center">Hi 👋, I'm Subaiyal Rehan</h1>
 <h3 align="center">A dedicated Full-stack Developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subaiyal-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="subaiyal-rehan" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=subaiyal-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="subaiyal-rehan" />
+</p>
+
+<div style="display:flex; align-items:flex-start; gap:20px;">
 
 - 💬 Ask me about **JavaScript, MERN**
-
 - 📫 How to reach me **subaiyalrehan888@gmail.com**
-
 - ⚡ Fun fact **I speak three languages — English, Urdu, and JavaScript! 😄💬💻**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <div>
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  </div>
+</div>
+
+<div style="clear:both;"></div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://github.com/subaiyalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="subaiyalrehan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subaiyal-rehan-67000a29a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subaiyal-rehan-67000a29a" height="30" width="40" /></a>
 <a href="https://fb.com/subaiyal.rehan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subaiyal.rehan.1" height="30" width="40" /></a>
