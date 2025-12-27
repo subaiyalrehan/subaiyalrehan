@@ -10,9 +10,9 @@
 - 📫 How to reach me **subaiyalrehan888@gmail.com**
 - ⚡ Fun fact **I speak three languages — English, Urdu, and JavaScript! 😄💬💻**
 
-<div style="width:100%; height:2px; background:#d1d5db; margin:24px 0;"></div>
+<!-- <div style="width:100%; height:2px; background:#d1d5db; margin:24px 0;"></div> -->
+<hr />
 
-<div style="clear:both;"></div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/subaiyalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="subaiyalrehan" height="30" width="40" /></a>
